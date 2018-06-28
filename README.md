@@ -1,5 +1,5 @@
 # OpenMind
-Open registry of publicly available ML models in the Internet with standard 0Mind API
+Open registry of publicly available ML models in the Internet with standard [0Mind](https://github.com/MisteryX/0Mind) API
 
 ## How to add your data to the registry
 Just append files
